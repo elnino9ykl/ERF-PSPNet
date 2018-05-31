@@ -1,4 +1,4 @@
-# Sequential-Hierarchical-ERF-PSPNet
+# Sequential/Hierarchical ERF-PSPNet
 
 This code is the Pytorch implementation of Sequential/Hierarchical ERF-PSPNet architectures, which are designed for real-time semantic segmentation.
 
