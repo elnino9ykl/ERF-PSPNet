@@ -10,4 +10,4 @@ For training/deployment, please use the original code of [ERFNet] (https://githu
 # Publications
 If you use this code in your research, please cite our publications:
 
-Yang, K., Wang, K., Bergasa, L.M., Romera, E., Hu, W., Sun, D., Sun, J., Cheng, R., Chen, T. and López, E., 2018. Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation. Sensors, 18(5), p.1506. [PDF] (http://www.mdpi.com/1424-8220/18/5/1506/pdf)
+Yang, K., Wang, K., Bergasa, L.M., Romera, E., Hu, W., Sun, D., Sun, J., Cheng, R., Chen, T. and López, E., 2018. Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation. Sensors, 18(5), p.1506. (http://www.mdpi.com/1424-8220/18/5/1506/)
