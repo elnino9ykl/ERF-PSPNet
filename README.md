@@ -5,7 +5,10 @@ This code is the Pytorch implementation of Sequential/Hierarchical ERF-PSPNet ar
 Hierarchical designs include 4x2 and 3x3 hierarchical archictures.
 The input resolution is set to 640x480.
 
-For training/deployment, please use the environment of [ERFNet] (https://github.com/Eromera/erfnet_pytorch)
+The code is tested with Python 3.6, Pytorch 0.4.1, CUDA 8.0.
+Additional Python packages: numpy, matplotlib, Pillow, torchvision.
+
+For training/deployment, you can also use the environment of [ERFNet] (https://github.com/Eromera/erfnet_pytorch)
                                  or the environment of [PIWISE] (https://github.com/bodokaiser/piwise)
 
 # Publications
