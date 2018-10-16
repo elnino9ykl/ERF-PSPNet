@@ -119,10 +119,10 @@ class Decoder (nn.Module):
     def __init__(self, num_classes):
         super().__init__()
 
-        self.layer5a = PSPDec(128, 32, (60,80))
-        self.layer5b = PSPDec(128, 32, (30,40)
-        self.layer5c = PSPDec(128, 32, (15,20)
-        self.layer5d = PSPDec(128, 32, (int(7.5),10)
+        self.layer5a = PSPDec(128, 32, (60,80),(60,80))
+        self.layer5b = PSPDec(128, 32, (30,40),(60,80))
+        self.layer5c = PSPDec(128, 32, (15,20),(60,80))
+        self.layer5d = PSPDec(128, 32, (int(7.5),10),(60,80))
 
         self.final = nn.Sequential(
             nn.Conv2d(256, 256, 3, padding=1, bias=False),
