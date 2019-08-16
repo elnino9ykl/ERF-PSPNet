@@ -17,7 +17,7 @@ Datasets: Cityscapes, Mapillary Vistas
 Data augmentations: Textual and geometric augmentations
 
 # Publications
-If you use this code in your research, please cite our publications:
+If you use this code in your research, please consider cite our publications:
 
 Yang, K., Wang, K., Bergasa, L.M., Romera, E., Hu, W., Sun, D., Sun, J., Cheng, R., Chen, T. and López, E., 2018. Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation. Sensors, 18(5), p.1506. (http://www.mdpi.com/1424-8220/18/5/1506/)
 
