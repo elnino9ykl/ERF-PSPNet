@@ -17,8 +17,11 @@ Datasets: Cityscapes, Mapillary Vistas
 Data augmentations: Textual and geometric augmentations
 
 # Publications
-If you use this code in your research, please consider cite our publications:
+If you use this code in your research, please consider citing any of these related publications:
 
-Yang, K., Wang, K., Bergasa, L.M., Romera, E., Hu, W., Sun, D., Sun, J., Cheng, R., Chen, T. and López, E., 2018. Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation. Sensors, 18(5), p.1506. (http://www.mdpi.com/1424-8220/18/5/1506/)
+**Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.**
+Yang, K., Wang, K., Bergasa, L.M., Romera, E., Hu, W., Sun, D., Sun, J., Cheng, R., Chen, T. and López, E., 2018. 
+Sensors, 18(5), p.1506. [PDF](http://www.mdpi.com/1424-8220/18/5/1506/pdf)
 
-Yang, K., Bergasa, L.M., Romera, E., Huang, X. and Wang, K., 2018. Predicting polarization beyond semantics for wearable robotics. In IEEE-RAS International Conference on Humanoid Robots (Humanoids2018), Beijing, China, November 2018. (http://wangkaiwei.org/file/publications/humanoids2018_kailun.pdf)
+**Predicting polarization beyond semantics for wearable robotics.**
+Yang, K., Bergasa, L.M., Romera, E., Huang, X. and Wang, K. In IEEE-RAS International Conference on Humanoid Robots (Humanoids2018), Beijing, China, November 2018. [PDF](http://wangkaiwei.org/file/publications/humanoids2018_kailun.pdf)
