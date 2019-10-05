@@ -8,8 +8,11 @@ The input resolution is set to 640x480.
 The code is tested with Python 3.6, Pytorch 0.4.1, CUDA 8.0.
 Additional Python packages: numpy, matplotlib, Pillow, torchvision.
 
-For training/deployment, you can also use the environment of [ERFNet] (https://github.com/Eromera/erfnet_pytorch)
-                                 or the environment of [PIWISE] (https://github.com/bodokaiser/piwise)
+
+
+For training/deployment, you can also use the environment of [[PASS](https://github.com/elnino9ykl/PASS)],
+                                 the environment of [[ERFNet](https://github.com/Eromera/erfnet_pytorch)],
+                                 or the environment of [[PIWISE](https://github.com/bodokaiser/piwise)].
 
 Network architectures: ERFNet, ERF-PSPNet (ERFNet with PSPNet)
 Loss functions: Cross entropy, Focal loss
@@ -18,7 +21,7 @@ Data augmentations: Textual and geometric augmentations
 
 # News
 
-Tensorflow implementation of ERF-PSPNet is [here](https://github.com/Katexiang/ERF-PSPNET).
+Tensorflow implementation of ERF-PSPNet is [[here](https://github.com/Katexiang/ERF-PSPNET)].
 
 # Publications
 If you use this code in your research, please consider citing any of these related publications:
