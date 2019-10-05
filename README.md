@@ -3,17 +3,18 @@
 This code is the Pytorch implementation of Sequential/Hierarchical ERF-PSPNet architectures, which are designed for real-time semantic segmentation.
 
 Hierarchical designs include 4x2 and 3x3 hierarchical architectures.
+
 The input resolution is set to 640x480.
 
 The code is tested with Python 3.6, Pytorch 0.4.1, CUDA 8.0.
 Additional Python packages: numpy, matplotlib, Pillow, torchvision.
 
-
-
 For training/deployment, you can also use the environment of [[PASS](https://github.com/elnino9ykl/PASS)],
 
 the environment of [[ERFNet](https://github.com/Eromera/erfnet_pytorch)],
 or the environment of [[PIWISE](https://github.com/bodokaiser/piwise)].
+
+# Features
 
 Network architectures: ERFNet, ERF-PSPNet (ERFNet with PSPNet),
 
