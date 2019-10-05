@@ -28,6 +28,10 @@ Data augmentations: Textual and geometric augmentations.
 
 Tensorflow implementation of ERF-PSPNet is [[here](https://github.com/Katexiang/ERF-PSPNET)].
 
+
+![Example segmentation](figure_comparison.jpg?raw=true "Example segmentation")
+
+
 # Publications
 If you use this code in your research, please consider citing any of these related publications:
 
