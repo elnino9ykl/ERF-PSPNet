@@ -11,13 +11,17 @@ Additional Python packages: numpy, matplotlib, Pillow, torchvision.
 
 
 For training/deployment, you can also use the environment of [[PASS](https://github.com/elnino9ykl/PASS)],
+
                                  the environment of [[ERFNet](https://github.com/Eromera/erfnet_pytorch)],
                                  or the environment of [[PIWISE](https://github.com/bodokaiser/piwise)].
 
-Network architectures: ERFNet, ERF-PSPNet (ERFNet with PSPNet)
-Loss functions: Cross entropy, Focal loss
-Datasets: Cityscapes, Mapillary Vistas
-Data augmentations: Textual and geometric augmentations
+Network architectures: ERFNet, ERF-PSPNet (ERFNet with PSPNet),
+
+Loss functions: Cross entropy, Focal loss,
+
+Datasets: Cityscapes, Mapillary Vistas,
+
+Data augmentations: Textual and geometric augmentations.
 
 # News
 
