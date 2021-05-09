@@ -45,4 +45,4 @@ In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Beijing, Ch
 
 **Unifying terrain awareness through real-time semantic segmentation.**
 K. Yang, L.M. Bergasa, E. Romera, R. Cheng, T. Chen, K. Wang.
-In IEEE Intelligent Vehicles Symposium (IV), Suzhou, China, June 2018. [[PDF](http://wangkaiwei.org/file/publications/iv2018_kailun.pdf)]
+In IEEE Intelligent Vehicles Symposium (**IV**), Suzhou, China, June 2018. [[PDF](http://wangkaiwei.org/file/publications/iv2018_kailun.pdf)]
