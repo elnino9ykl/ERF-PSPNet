@@ -41,7 +41,7 @@ Sensors, 18(5), p. 1506. [[PDF](http://www.mdpi.com/1424-8220/18/5/1506/pdf)]
 
 **Predicting polarization beyond semantics for wearable robotics.**
 K. Yang, L.M. Bergasa, E. Romera, X. Huang, K. Wang.
-In IEEE-RAS International Conference on Humanoid Robots (Humanoids), Beijing, China, November 2018. [[PDF](http://wangkaiwei.org/file/publications/humanoids2018_kailun.pdf)]
+In IEEE-RAS International Conference on Humanoid Robots (**Humanoids**), Beijing, China, November 2018. [[PDF](http://wangkaiwei.org/file/publications/humanoids2018_kailun.pdf)]
 
 **Unifying terrain awareness through real-time semantic segmentation.**
 K. Yang, L.M. Bergasa, E. Romera, R. Cheng, T. Chen, K. Wang.
